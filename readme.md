@@ -18,7 +18,7 @@ Create your own stunning personal website with this customizable template. Showc
 
 ## Demo
 
-View a live demo of the template [here]([https://wickdev.xyz/](https://personal-website-template-uuqp.vercel.app/))
+View a live demo of the template [here](https://personal-website-template-uuqp.vercel.app/)]
 
 ## Features
 
